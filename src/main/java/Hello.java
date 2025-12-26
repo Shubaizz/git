@@ -11,8 +11,10 @@ public class Hello {
         System.out.println("good");
     }
     public static void hell(){
-
+        System.out.println("sdadadad");
     }
-    static void bag(){}
+    static void bag(){
+        System.out.println("hello");
+    }
 
 }
