@@ -13,4 +13,6 @@ public class Hello {
     public static void hell(){
 
     }
+    static void bag(){}
+
 }
