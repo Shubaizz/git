@@ -16,6 +16,8 @@ public class Hello {
     static void bag(){
         System.out.println("hello");
         System.out.println("yes");
+        System.out.println("esaea");
+        hell();
     }
 
 }
