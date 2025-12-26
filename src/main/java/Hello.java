@@ -17,7 +17,8 @@ public class Hello {
         System.out.println("hello");
         System.out.println("yes");
         System.out.println("yeyseysye");
+        System.out.println("esaea");
+        hell();
     }
-
 
 }
